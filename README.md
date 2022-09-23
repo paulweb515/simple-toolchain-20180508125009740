@@ -7,3 +7,5 @@ That's OK though.
 Must check to see if we can recreate it.
 
 It seems it's only tied to tekton runs.
+
+That's OK, still counts as testing.
